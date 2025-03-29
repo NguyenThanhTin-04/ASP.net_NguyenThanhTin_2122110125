@@ -14,6 +14,7 @@ namespace NguyenThanhTin_2122110125.Data
 
         public DbSet<Category> Category { get; set; }
 
+        public DbSet<User> Users { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
