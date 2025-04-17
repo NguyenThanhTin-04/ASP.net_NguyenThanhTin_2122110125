@@ -1,3 +1,11 @@
+D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\obj\Debug\net8.0\NguyenThanhTin_2122110125.csproj.AssemblyReference.cache
+D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\obj\Debug\net8.0\NguyenThanhTin_2122110125.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\obj\Debug\net8.0\NguyenThanhTin_2122110125.AssemblyInfoInputs.cache
+D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\obj\Debug\net8.0\NguyenThanhTin_2122110125.AssemblyInfo.cs
+D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\obj\Debug\net8.0\NguyenThanhTin_2122110125.csproj.CoreCompileInputs.cache
+D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\obj\Debug\net8.0\NguyenThanhTin_2122110125.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\obj\Debug\net8.0\NguyenThanhTin_2122110125.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\obj\Debug\net8.0\NguyenThanhTin_2122110125.sourcelink.json
 D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\bin\Debug\net8.0\appsettings.Development.json
 D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\bin\Debug\net8.0\appsettings.json
 D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\bin\Debug\net8.0\NguyenThanhTin_2122110125.exe
@@ -7,7 +15,9 @@ D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\bin\Debug\net8.0\
 D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\bin\Debug\net8.0\NguyenThanhTin_2122110125.pdb
 D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\bin\Debug\net8.0\Azure.Core.dll
 D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\bin\Debug\net8.0\Azure.Identity.dll
+D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\bin\Debug\net8.0\BCrypt.Net-Next.dll
 D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\bin\Debug\net8.0\Humanizer.dll
+D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\bin\Debug\net8.0\Microsoft.Build.Locator.dll
 D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
@@ -145,14 +155,6 @@ D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\bin\Debug\net8.0\
 D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\obj\Debug\net8.0\NguyenThanhTin_2122110125.csproj.AssemblyReference.cache
-D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\obj\Debug\net8.0\NguyenThanhTin_2122110125.GeneratedMSBuildEditorConfig.editorconfig
-D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\obj\Debug\net8.0\NguyenThanhTin_2122110125.AssemblyInfoInputs.cache
-D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\obj\Debug\net8.0\NguyenThanhTin_2122110125.AssemblyInfo.cs
-D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\obj\Debug\net8.0\NguyenThanhTin_2122110125.csproj.CoreCompileInputs.cache
-D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\obj\Debug\net8.0\NguyenThanhTin_2122110125.MvcApplicationPartsAssemblyInfo.cs
-D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\obj\Debug\net8.0\NguyenThanhTin_2122110125.MvcApplicationPartsAssemblyInfo.cache
-D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\obj\Debug\net8.0\NguyenThanhTin_2122110125.sourcelink.json
 D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\obj\Debug\net8.0\staticwebassets.build.json
 D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\obj\Debug\net8.0\staticwebassets.development.json
 D:\ASP.net\NguyenThanhTin_2122110125\NguyenThanhTin_2122110125\obj\Debug\net8.0\staticwebassets\msbuild.NguyenThanhTin_2122110125.Microsoft.AspNetCore.StaticWebAssets.props
