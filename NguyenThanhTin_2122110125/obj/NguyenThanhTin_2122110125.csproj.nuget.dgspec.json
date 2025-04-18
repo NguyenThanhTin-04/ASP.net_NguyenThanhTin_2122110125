@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ASP.net\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125.csproj": {}
+    "D:\\AAA\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125.csproj": {}
   },
   "projects": {
-    "D:\\ASP.net\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125.csproj": {
+    "D:\\AAA\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASP.net\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125.csproj",
+        "projectUniqueName": "D:\\AAA\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125.csproj",
         "projectName": "NguyenThanhTin_2122110125",
-        "projectPath": "D:\\ASP.net\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125.csproj",
+        "projectPath": "D:\\AAA\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP.net\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\obj\\",
+        "outputPath": "D:\\AAA\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",

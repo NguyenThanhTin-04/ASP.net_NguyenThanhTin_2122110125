@@ -5,7 +5,7 @@
 namespace NguyenThanhTin_2122110125.Migrations
 {
     /// <inheritdoc />
-    public partial class AddCategory : Migration
+    public partial class CreateUserTable : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
