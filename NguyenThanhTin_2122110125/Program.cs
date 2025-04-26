@@ -71,6 +71,15 @@ builder.Services.AddSwaggerGen(options =>
     });
 });
 
+// ✅ Cấu hình CORS cho React app
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll", builder =>
+    {
+        builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
+    });
+});
 var app = builder.Build();
 
 // ✅ Use Swagger in dev mode
@@ -80,9 +89,13 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseCors("AllowAll");
+app.UseStaticFiles();
+
 // ✅ Middleware
 app.UseHttpsRedirection();
 app.UseAuthentication();
+
 app.UseAuthorization();
 app.MapControllers();
 app.Run();

@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ASP.net\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\wwwroot\\images\\Logo-PV.png",
+      "PackagePath": "staticwebassets\\images\\Logo-PV.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\wwwroot\\images\\Samsung_Galaxy_S24_black.png",
+      "PackagePath": "staticwebassets\\images\\Samsung_Galaxy_S24_black.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\wwwroot\\images\\iphone15.jpg",
+      "PackagePath": "staticwebassets\\images\\iphone15.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\wwwroot\\images\\product1.webp",
+      "PackagePath": "staticwebassets\\images\\product1.webp"
+    },
+    {
+      "Id": "D:\\ASP.net\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\wwwroot\\images\\product10.webp",
+      "PackagePath": "staticwebassets\\images\\product10.webp"
+    },
+    {
+      "Id": "D:\\ASP.net\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\wwwroot\\images\\product11.webp",
+      "PackagePath": "staticwebassets\\images\\product11.webp"
+    },
+    {
+      "Id": "D:\\ASP.net\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\wwwroot\\images\\product12.webp",
+      "PackagePath": "staticwebassets\\images\\product12.webp"
+    },
+    {
+      "Id": "D:\\ASP.net\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\wwwroot\\images\\product2.webp",
+      "PackagePath": "staticwebassets\\images\\product2.webp"
+    },
+    {
+      "Id": "D:\\ASP.net\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\wwwroot\\images\\product3.webp",
+      "PackagePath": "staticwebassets\\images\\product3.webp"
+    },
+    {
+      "Id": "D:\\ASP.net\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\wwwroot\\images\\product4.webp",
+      "PackagePath": "staticwebassets\\images\\product4.webp"
+    },
+    {
+      "Id": "D:\\ASP.net\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\wwwroot\\images\\product5.webp",
+      "PackagePath": "staticwebassets\\images\\product5.webp"
+    },
+    {
+      "Id": "D:\\ASP.net\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\wwwroot\\images\\product6.webp",
+      "PackagePath": "staticwebassets\\images\\product6.webp"
+    },
+    {
+      "Id": "D:\\ASP.net\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\wwwroot\\images\\product7.jpeg",
+      "PackagePath": "staticwebassets\\images\\product7.jpeg"
+    },
+    {
+      "Id": "D:\\ASP.net\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\wwwroot\\images\\product8.jpeg",
+      "PackagePath": "staticwebassets\\images\\product8.jpeg"
+    },
+    {
+      "Id": "D:\\ASP.net\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\wwwroot\\images\\product8.webp",
+      "PackagePath": "staticwebassets\\images\\product8.webp"
+    },
+    {
+      "Id": "D:\\ASP.net\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\wwwroot\\images\\product9.webp",
+      "PackagePath": "staticwebassets\\images\\product9.webp"
+    },
+    {
+      "Id": "D:\\ASP.net\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\wwwroot\\images\\thegioididong1.png",
+      "PackagePath": "staticwebassets\\images\\thegioididong1.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NguyenThanhTin_2122110125.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.NguyenThanhTin_2122110125.props",
+      "PackagePath": "build\\NguyenThanhTin_2122110125.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.NguyenThanhTin_2122110125.props",
+      "PackagePath": "buildMultiTargeting\\NguyenThanhTin_2122110125.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.NguyenThanhTin_2122110125.props",
+      "PackagePath": "buildTransitive\\NguyenThanhTin_2122110125.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

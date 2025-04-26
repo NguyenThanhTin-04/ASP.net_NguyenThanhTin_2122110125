@@ -25,6 +25,8 @@ namespace NguyenThanhTin_2122110125.Model
         [Required]
         public string Password_Confirm { get; set; }
 
+        public string Role { get; set; } = "User";
+
         public bool IsActive { get; set; } = true;
 
         public DateTime CreatedAt { get; set; } = DateTime.Now;

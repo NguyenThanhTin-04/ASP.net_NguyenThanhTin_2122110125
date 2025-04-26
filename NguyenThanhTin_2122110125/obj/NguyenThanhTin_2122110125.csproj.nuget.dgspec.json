@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AAA\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125.csproj": {}
+    "D:\\ASP.net\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125.csproj": {}
   },
   "projects": {
-    "D:\\AAA\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125.csproj": {
+    "D:\\ASP.net\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AAA\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125.csproj",
+        "projectUniqueName": "D:\\ASP.net\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125.csproj",
         "projectName": "NguyenThanhTin_2122110125",
-        "projectPath": "D:\\AAA\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125.csproj",
+        "projectPath": "D:\\ASP.net\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\AAA\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\obj\\",
+        "outputPath": "D:\\ASP.net\\NguyenThanhTin_2122110125\\NguyenThanhTin_2122110125\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
